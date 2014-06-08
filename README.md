@@ -1,4 +1,4 @@
-python_training
+Python training
 ===============
-Using GIT to version control doing python trainings.
+Using GIT to version control doing python trainings.  
 http://learnpythonthehardway.org/book/
