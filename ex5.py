@@ -16,7 +16,7 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 # this is tricky, try to get it right
 print "If I add %d, %d and %d I get %d." % (
     my_age, my_height, my_weight, my_age + my_height + my_weight)
-print "My weight is %r kg." % (
+print "His weight is %r kg." % (
     my_weight * 0.45392 )
-print "My height is %i cm." % (
+print "His height is %i cm." % (
     round( my_height * 2.54 ) )
