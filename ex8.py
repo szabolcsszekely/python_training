@@ -1,4 +1,4 @@
-# This is the eigth exercise
+# This is the eigth exercise.
 # Date: 2014-06-14
 
 formatter = "%r %r %r %r"
@@ -7,7 +7,7 @@ print formatter % (1, 2, 3, 4)
 print formatter % ("one", "two", "three", "four" )
 print formatter % (True, False, False, True)
 print formatter % (formatter, formatter, formatter, formatter)
-print fomatter % (
+print formatter % (
 	"I had this thing.",
 	"That you could type up right.",
 	"But it didn't sing.",
