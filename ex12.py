@@ -1,4 +1,4 @@
-# This is the twelth exercise.
+# This is the twelfth exercise.
 # Date: 2014-06-16
 
 age = raw_input("How old are you? ")
