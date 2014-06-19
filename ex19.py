@@ -12,6 +12,8 @@ amount_of_crackers = 50
 
 cheese_and_crackers(amount_of_cheese, amount_of_crackers)
 
+cheese_and_crackers(int(raw_input("cheese? ")), int(raw_input("crackers?\n")))
+
 print "We can do math inside too:"
 cheese_and_crackers(10 + 20, 5 + 6)
 
