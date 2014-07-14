@@ -214,9 +214,10 @@ class Map(object):
 
     def next_scene(self, scene_name):
         print "start_scene in next_scene"
-        val = Map.scenes.get(scene_name)
-        print "next_scene returns", val
-        return val
+        #val = Map.scenes.get(scene_name)
+        #print "next_scene returns", val
+        #return val
+        return Map.scenes.get(scene_name)
 
     def opening_scene(self):
         return self.next_scene(self.start_scene)
